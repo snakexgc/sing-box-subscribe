@@ -347,7 +347,7 @@
             ]
         },
         {
-            "tag": "🌏 cn",
+            "tag": "cn",
             "type": "selector",
             "outbounds": [
                 "proxy",
@@ -355,7 +355,7 @@
             ]
         },
         {
-            "tag": "🛑 AdBlock",
+            "tag": "AdBlock",
             "type": "selector",
             "outbounds": [
                 "block",
@@ -416,7 +416,7 @@
             },
             {
                 "geosite": "category-ads-all",
-                "outbound": "🛑 AdBlock"
+                "outbound": "AdBlock"
             },
             {
                 "clash_mode": "direct",
@@ -528,11 +528,11 @@
                     "private",
                     "cn"
                 ],
-                "outbound": "🌏 cn"
+                "outbound": "cn"
             },
             {
                 "geosite": "cn",
-                "outbound": "🌏 cn"
+                "outbound": "cn"
             }
         ]
     },
