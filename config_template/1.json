@@ -139,8 +139,7 @@
                 "proxy",
                 "direct",
                 "{all}"
-            ],
-            "default": "proxy"
+            ]
         },
         {
             "tag": "Google",
@@ -194,8 +193,7 @@
                 "proxy",
                 "direct",
                 "{all}"
-            ],
-            "default": "proxy"
+            ]
         },
         {
             "tag": "Spotify",
@@ -213,8 +211,7 @@
                 "proxy",
                 "direct",
                 "{all}"
-            ],
-            "default": "proxy"
+            ]
         },
         {
             "tag": "NETFLIX",
@@ -277,8 +274,7 @@
                 "proxy",
                 "direct",
                 "{all}"
-            ],
-            "default": "proxy"
+            ]
         },
         {
             "tag": "China",
